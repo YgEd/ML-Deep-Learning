@@ -1,0 +1,2 @@
+# Project Description
+This project involves completing and modifying an LSTM model by converting it to a Bidirectional LSTM model for language translation using Keras or TensorFlow. The project features include filling in the data directory, replacing an LSTM layer with a Bidirectional LSTM, and training the model to translate English to Spanish (or other languages). Additionally, the project requires completing the code and generating images that outline the encoder and decoder structures.
