@@ -1,0 +1,2 @@
+# Project Description
+This project involves building a Convolutional Neural Network (CNN) to classify CIFAR-10 images using deep learning frameworks like PyTorch, Keras, or TensorFlow. The dataset is split into training and validation sets, and a CNN model is implemented to classify the images. The project includes plotting training and validation accuracy or loss, tuning parameters, and reporting test accuracy on the complete dataset. Additionally, model variations, such as adding batch normalization or dropout layers, are explored and analyzed.
